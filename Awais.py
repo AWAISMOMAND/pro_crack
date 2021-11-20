@@ -238,7 +238,7 @@ def login_select():
 
 def login_fb():
 
-	os.system("clear")	logo()
+	os.system("clear")
 
 	print("")
 
